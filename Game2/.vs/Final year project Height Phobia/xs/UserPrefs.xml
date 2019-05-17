@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4770E64D-E0B1-0D28-D880-5E3077EE3484}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyScripts/LevelText.cs">
+    <Files>
+      <File FileName="Assets/MyScripts/LevelText.cs" Line="16" Column="82" />
+      <File FileName="Assets/MyScripts/SceneChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyScripts/SpawnTime.cs" Line="30" Column="22" />
+      <File FileName="Assets/MyScripts/CarMoving.cs" Line="24" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

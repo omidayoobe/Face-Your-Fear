@@ -1,0 +1,7 @@
+/Users/omidayoobe/Desktop/Final year project and report/Final year Calustraphobia  /Temp/bin/Debug/SteamVR_Windows_EditorHelper.dll
+/Users/omidayoobe/Desktop/Final year project and report/Final year Calustraphobia  /Temp/bin/Debug/SteamVR_Windows_EditorHelper.pdb
+/Users/omidayoobe/Desktop/Final year project and report/Final year Calustraphobia  /obj/Debug/SteamVR_Windows_EditorHelper.csprojAssemblyReference.cache
+/Users/omidayoobe/Desktop/Final year project and report/Final year Calustraphobia  /obj/Debug/SteamVR_Windows_EditorHelper.csproj.CoreCompileInputs.cache
+/Users/omidayoobe/Desktop/Final year project and report/Final year Calustraphobia  /obj/Debug/SteamVR_Windows_EditorHelper.csproj.CopyComplete
+/Users/omidayoobe/Desktop/Final year project and report/Final year Calustraphobia  /obj/Debug/SteamVR_Windows_EditorHelper.dll
+/Users/omidayoobe/Desktop/Final year project and report/Final year Calustraphobia  /obj/Debug/SteamVR_Windows_EditorHelper.pdb
